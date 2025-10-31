@@ -1,5 +1,6 @@
-## Hi there 👋
-### ![Badges](https://assets.leetcode.com/static_assets/others/2550.gif)
+## Leetcode Badges
+ ![50 days](https://assets.leetcode.com/static_assets/others/2550.gif)
+ ![Oct 2025](https://assets.leetcode.com/static_assets/marketing/202510.gif)
 
 
 
