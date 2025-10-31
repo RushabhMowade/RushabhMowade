@@ -1,7 +1,6 @@
 ## Leetcode Badges
- ![50 days](https://assets.leetcode.com/static_assets/others/2550.gif)
- ![Oct 2025](https://assets.leetcode.com/static_assets/marketing/202510.gif)
 
+<img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="120" alt="50 days badge"><img src="https://assets.leetcode.com/static_assets/marketing/202510.gif" width="120" alt="Oct 2025 badge">
 
 
 <!--
