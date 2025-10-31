@@ -1,20 +1,10 @@
-## Leetcode Badges
+## 🏅 Leetcode Badges
 
-<img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="120" title="50 Days Streak Badge" alt="50 days badge"><img src="https://assets.leetcode.com/static_assets/marketing/202510.gif" width="120" title="October 2025 Badge" alt="Oct 2025 badge">
+<p align="center">
+  <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="180" title="50 Days Streak" alt="50 Days Badge" style="margin-right: 30px;">
+  <img src="https://assets.leetcode.com/static_assets/marketing/202510.gif" width="180" title="October 2025" alt="October 2025 Badge">
+</p>
 
-
-
-<!--
-**RushabhMowade/RushabhMowade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <b>50 Days Streak</b>   <b>October 2025</b>
+</p>
