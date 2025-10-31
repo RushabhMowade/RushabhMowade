@@ -6,5 +6,5 @@
 </p>
 
 <p align="center">
-  <b>50 Days Streak</b>   <b>October 2025</b>
+  <b>50 Days Streak</b>       <b>October 2025</b>
 </p>
