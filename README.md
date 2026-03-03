@@ -18,27 +18,25 @@ Building models, analyzing data, and solving algorithmic problems.
 
 <p align="center">
 
-  <!-- HackerRank Badges -->
+  <!-- HackerRank -->
   <img src="https://img.shields.io/badge/HackerRank-Java%204★-2EC866?logo=hackerrank&logoColor=white" height="35"/>
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/HackerRank-Problem%20Solving%202★-2EC866?logo=hackerrank&logoColor=white" height="35"/>
 
   <br><br>
 
-  <!-- LeetCode Badges -->
+  <!-- LeetCode -->
   <img src="https://assets.leetcode.com/static_assets/others/2550.gif" height="140"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://assets.leetcode.com/static_assets/marketing/202510.gif" height="140"/>
 
-</p>
+  <br>
 
-<p align="center">
   <b>50 Days Streak</b>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <b>October 2025</b>
-</p>
 
----
+</p>
 
 ## 💡 Focus Areas
 
