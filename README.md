@@ -1,3 +1,15 @@
+# Rushabh Mowade
+
+🚀 Data Science & ML Enthusiast  
+Building models, analyzing data, and solving algorithmic problems  
+
+---
+
+## 🏆 Competitive Programming
+
+- 🔥 50 Days LeetCode Streak  
+- 🏅 LeetCode Monthly Badge – October 2025  
+- ⭐ 4★ / 5★ HackerRank (if applicable)
 ## 🏅 Leetcode Badges
 
 <p align="center">
