@@ -35,7 +35,7 @@ Building models, analyzing data, and solving algorithmic problems.
   <br>
 
   <b>50 Days Streak</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <b>October 2025</b>
 
 </div>
