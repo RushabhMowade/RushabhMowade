@@ -9,7 +9,7 @@ Building models, analyzing data, and solving algorithmic problems.
 
 - 🔥 50 Days LeetCode Streak  
 - 🏅 LeetCode Monthly Badge – October 2025  
-- ⭐⭐⭐⭐ Java – HackerRank  
+- ⭐⭐⭐⭐⭐ Java – HackerRank  
 - ⭐⭐ Problem Solving – HackerRank  
 
 ---
@@ -19,7 +19,7 @@ Building models, analyzing data, and solving algorithmic problems.
 <div align="center">
 
   <!-- HackerRank -->
-  <img src="https://img.shields.io/badge/HackerRank-Java%204★-2EC866?logo=hackerrank&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/HackerRank-Java%205★-2EC866?logo=hackerrank&logoColor=white" height="35"/>
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/HackerRank-Problem%20Solving%202★-2EC866?logo=hackerrank&logoColor=white" height="35"/>
 
